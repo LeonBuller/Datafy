@@ -10,7 +10,7 @@ const Cards = () => {
         <div className="w-full shadow-2xl rounded-lg flex flex-col p-4 my-4 hover:scale-105 duration-300">
           <img className="w-20 mx-auto  mt-[-3rem]" src={Single} alt="" />
           <h2 className="text-2xl font-bold text-center py-8">Basic</h2>
-          <p className="text-center text-3xl font-bold ">$149</p>
+          <p className="text-center text-3xl font-bold ">$99</p>
           <div className="font-medium text-center">
             <p className="py-2 border-b mx-8 mt-8">500 GB Storage</p>
             <p className="py-2 border-b mx-8">10 Users</p>
@@ -41,7 +41,7 @@ const Cards = () => {
         <div className="w-full shadow-2xl rounded-lg flex flex-col p-4 my-4 hover:scale-105 duration-300">
           <img className="w-20 mx-auto  mt-[-3rem]" src={Double} alt="" />
           <h2 className="text-2xl font-bold text-center py-8">Standard</h2>
-          <p className="text-center text-3xl font-bold ">$149</p>
+          <p className="text-center text-3xl font-bold ">$49</p>
           <div className="font-medium text-center">
             <p className="py-2 border-b mx-8 mt-8">5 TB Storage</p>
             <p className="py-2 border-b mx-8">50 Users</p>

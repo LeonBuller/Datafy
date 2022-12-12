@@ -20,5 +20,3 @@ function App() {
 }
 
 export default App;
-
-// Stopped at 00:52:07

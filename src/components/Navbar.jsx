@@ -10,13 +10,15 @@ const Navbar = () => {
 
   return (
     <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white">
-      <h1 className="w-full text-3xl font-bold text-[#00df9a]">Datafy</h1>
+      <h1 className="w-full text-3xl font-bold text-[#00df9a] hover:cursor-pointer">
+        Datafy
+      </h1>
       <ul className="hidden md:flex">
-        <li className="p-4">Home</li>
-        <li className="p-4">Company</li>
-        <li className="p-4">Resources</li>
-        <li className="p-4">About</li>
-        <li className="p-4">Contact</li>
+        <li className="p-4 hover:cursor-pointer">Home</li>
+        <li className="p-4 hover:cursor-pointer">Company</li>
+        <li className="p-4 hover:cursor-pointer">Resources</li>
+        <li className="p-4 hover:cursor-pointer">About</li>
+        <li className="p-4 hover:cursor-pointer">Contact</li>
       </ul>
 
       {/* MOBILE ICONS */}
