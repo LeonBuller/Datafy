@@ -24,7 +24,7 @@ const Cards = () => {
         <div className="w-full shadow-2xl rounded-lg flex flex-col p-2 my-1 hover:scale-110 duration-300">
           <img className="w-20 mx-auto  mt-[-3rem]" src={Triple} alt="" />
           <h2 className="text-3xl font-bold text-center py-8">Pro</h2>
-          <span className="absolute text-sm font-medium border rounded-2xl m-1 p-1 bg-[#00df9a] mt-[-1.4rem] ml-[-1rem]">
+          <span className="absolute text-sm font-medium border rounded-2xl p-1 bg-[#00df9a] mt-[-1.4rem] ml-[-1rem]">
             Most Popular
           </span>
           <p className="text-center text-3xl font-bold ">$149</p>
