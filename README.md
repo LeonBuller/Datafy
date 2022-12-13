@@ -3,7 +3,7 @@
 
 https://user-images.githubusercontent.com/98963564/207253633-43d141f3-be10-435c-9220-7fc5b9e4a350.mp4
 
-Fully responsive website using React and Tailwind CSS and a realy fun and interesting package called react-typed which allows the dynamic typing in the hero section
+Fully responsive website using **React** and **Tailwind** CSS and a realy fun and interesting package called react-typed which allows the dynamic typing in the hero section
 
 # Getting Started with Create React App
 
